@@ -20,3 +20,6 @@ We are collapsing the distance between product, audience, and hardworking market
 ## Connect
 
 The best way to follow my work or start a conversation is here on GitHub.
+
+- X: [@weickenmeier](https://x.com/weickenmeier)
+- LinkedIn: [@weickenmeier](https://www.linkedin.com/in/weickenmeier/)
