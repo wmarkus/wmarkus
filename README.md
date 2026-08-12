@@ -14,7 +14,7 @@ We are collapsing the distance between product, audience, and hardworking market
 ## GitHub activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wmarkus&show_icons=true&hide_border=true&theme=transparent" alt="Markus's GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmarkus&theme=github-compact&hide_border=true" alt="Markus's GitHub activity graph" />
 </p>
 
 ## Connect
