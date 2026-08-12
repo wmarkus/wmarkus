@@ -11,12 +11,6 @@ We are collapsing the distance between product, audience, and hardworking market
 - Creating launch systems for AI products and developer platforms
 - Designing agentic workflows that help creative and product teams move faster
 
-## GitHub activity
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wmarkus&theme=github-compact&hide_border=true" alt="Markus's GitHub activity graph" />
-</p>
-
 ## Connect
 
 The best way to follow my work or start a conversation is here on GitHub.
